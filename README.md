@@ -5,6 +5,10 @@
 
 - 🔭 I’m currently working at [Computational Vision and Imaging Lab at York University under the supervision of Konstantinos Derpanis](https://github.com/YorkUCVIL)
 
+### **Contributed to** :construction_worker::
+
+<code><img height="50" src="https://github.com/MarkUsProject/Markus/blob/master/app/assets/images/markus_logo_small.png"></code>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/utkueumut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="utkueumut" height="30" width="40" /></a>
