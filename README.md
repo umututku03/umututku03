@@ -3,19 +3,19 @@
 
 <p align="left"> <a href="https://twitter.com/utkueumut" target="blank"><img src="https://img.shields.io/twitter/follow/utkueumut?logo=twitter&style=for-the-badge" alt="utkueumut" /></a> </p>
 
-- 🔭 I’m currently working at [Computational Vision and Imaging Lab at York University](https://github.com/YorkUCVIL) under the supervision of Konstantinos Derpanis. I have received the Lassonde Undergraduate Research Award.
+- 🔭 I’m currently working at [Computational Vision and Imaging Lab at York University](https://github.com/YorkUCVIL) under the supervision of [Konstantinos Derpanis](https://csprofkgd.github.io/). I have received the Lassonde Undergraduate Research Award.
 
 ### **I contributed to** :construction_worker::
 
 <code><img src="https://github.com/umututku03/umututku03/blob/main/sds-png.svg" alt="Sample Image" width="120" height="120"></code>
-- Students Developing Software (SDS) is a group of students led by Professor David Liu developing and maintaining high-quality **open-source** software used for undergraduate education in the Deparment of Computer Science at the University of Toronto.
+- Students Developing Software (SDS) is a group of students led by Professor [David Liu](https://www.cs.toronto.edu/~david/) developing and maintaining high-quality **open-source** software used for undergraduate education in the Deparment of Computer Science at the University of Toronto.
   #### In SDS, I worked on:
 
   <code><img height="50" src="https://github.com/MarkUsProject/Markus/blob/master/app/assets/images/markus_logo_small.png"></code>
-  - MarkUs is a web application for courses to manage assessments, supporting individual and group submissions and both TA and automated grading. This project was started by Professor Karen Reid in 2008!
+  - [MarkUs](https://github.com/MarkUsProject) is a web application for courses to manage assessments, supporting individual and group submissions and both TA and automated grading.
     
   <code><img height="120" width="120" src="https://github.com/umututku03/umututku03/blob/main/pyTA-png.png"></code>
-  - PythonTA is a code checking tool aimed at beginner Python programmers, providing dierent ways of detecting possible errors and improvements to Python code.
+  - [PythonTA](https://github.com/pyta-uoft) is a code checking tool aimed at beginner Python programmers, providing dierent ways of detecting possible errors and improvements to Python code.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
