@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at [Computational Vision and Imaging Lab at York University](https://github.com/YorkUCVIL) under the supervision of [Konstantinos Derpanis](https://csprofkgd.github.io/). I have received the [Lassonde Undergraduate Research Award](https://lassonde.yorku.ca/research/lura-and-usra-research-at-lassonde).
 
-### **I contributed to** :construction_worker::
+### **As a volunteer, I contributed to** :construction_worker::
 
 <code><img src="https://github.com/umututku03/umututku03/blob/main/sds-png.svg" alt="Sample Image" width="120" height="120"></code>
 - Students Developing Software (SDS) is a group of students led by Professor [David Liu](https://www.cs.toronto.edu/~david/) developing and maintaining high-quality **open-source** software used for undergraduate education in the Deparment of Computer Science at the University of Toronto.
