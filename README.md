@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/utkueumut" target="blank"><img src="https://img.shields.io/twitter/follow/utkueumut?logo=twitter&style=for-the-badge" alt="utkueumut" /></a> </p>
 
-- 🔭 I’m currently working at [Computational Vision and Imaging Lab at York University](https://github.com/YorkUCVIL) under the supervision of [Konstantinos Derpanis](https://csprofkgd.github.io/). I have received the Lassonde Undergraduate Research Award.
+- 🔭 I’m currently working at [Computational Vision and Imaging Lab at York University](https://github.com/YorkUCVIL) under the supervision of [Konstantinos Derpanis](https://csprofkgd.github.io/). I have received the [Lassonde Undergraduate Research Award](https://lassonde.yorku.ca/research/lura-and-usra-research-at-lassonde).
 
 ### **I contributed to** :construction_worker::
 
