@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at [Computational Vision and Imaging Lab at York University under the supervision of Konstantinos Derpanis](https://github.com/YorkUCVIL)
 
-### **Contributed to** :construction_worker::
+### **As a volunteer, I contributed to** :construction_worker::
 
 <code><img height="50" src="https://github.com/MarkUsProject/Markus/blob/master/app/assets/images/markus_logo_small.png"></code>
 
