@@ -15,6 +15,8 @@
   - [MarkUs](https://github.com/MarkUsProject) is a web application for courses to manage assessments, supporting individual and group submissions and both TA and automated grading.
     
   <code><img height="120" width="120" src="https://github.com/umututku03/umututku03/blob/main/pyTA-png.png"></code>
+  
+  <code><a href="https://github.com/pyta-uoft/pyta/pulls?q=is%3Apr+author%3Aumututku03+is%3Aclosed">My Pull Requests (PRs)</a></code>
   - [PythonTA](https://github.com/pyta-uoft) is a code checking tool aimed at beginner Python programmers, providing dierent ways of detecting possible errors and improvements to Python code.
 
 <h3 align="left">Connect with me:</h3>
