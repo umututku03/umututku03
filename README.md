@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Utku Egemen Umut</h1>
-<h3 align="center">A passionate Computer Vision Researcher</h3>
+<h3 align="center">A passionate Computer Science Student</h3>
 
 <p align="left"> <a href="https://twitter.com/utkueumut" target="blank"><img src="https://img.shields.io/twitter/follow/utkueumut?logo=twitter&style=for-the-badge" alt="utkueumut" /></a> </p>
 
@@ -9,7 +9,7 @@
 - Computer Vision
 - Software Development
 
-I’m currently working at [Computational Vision and Imaging Lab at York University](https://github.com/YorkUCVIL) under the supervision of [Konstantinos Derpanis](https://csprofkgd.github.io/). I have received the [Lassonde Undergraduate Research Award](https://lassonde.yorku.ca/research/lura-and-usra-research-at-lassonde).
+I’m currently an Undergraduate Computer Vision Researcher at [Computational Vision and Imaging Lab at York University](https://github.com/YorkUCVIL) under the supervision of [Konstantinos Derpanis](https://csprofkgd.github.io/). I have received the [Lassonde Undergraduate Research Award](https://lassonde.yorku.ca/research/lura-and-usra-research-at-lassonde).
 
 I was an Undergraduate Researcher at the Autonomous Vision Group at [Koç University KUIS AI Research Institute](https://ai.ku.edu.tr/), where I worked under the supervision of [Fatma Guney](https://mysite.ku.edu.tr/fguney/).
 
