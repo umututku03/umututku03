@@ -3,13 +3,23 @@
 
 <p align="left"> <a href="https://twitter.com/utkueumut" target="blank"><img src="https://img.shields.io/twitter/follow/utkueumut?logo=twitter&style=for-the-badge" alt="utkueumut" /></a> </p>
 
-- 🔭 I’m currently working at [Computational Vision and Imaging Lab at York University](https://github.com/YorkUCVIL) under the supervision of [Konstantinos Derpanis](https://csprofkgd.github.io/). I have received the [Lassonde Undergraduate Research Award](https://lassonde.yorku.ca/research/lura-and-usra-research-at-lassonde).
+### Areas of Interest:
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Software Development
+
+I’m currently working at [Computational Vision and Imaging Lab at York University](https://github.com/YorkUCVIL) under the supervision of [Konstantinos Derpanis](https://csprofkgd.github.io/). I have received the [Lassonde Undergraduate Research Award](https://lassonde.yorku.ca/research/lura-and-usra-research-at-lassonde).
+
+I was an Undergraduate Researcher at the Autonomous Vision Group at [Koç University KUIS AI Research Institute](https://ai.ku.edu.tr/), where I worked under the supervision of [Fatma Guney](https://mysite.ku.edu.tr/fguney/).
+
+I interned as a Machine Learning Engineer at [TAZI AI Systems](https://tazi.ai/), where I focused on deploying end-to-end ML models for churn prediction.
 
 ### **As a volunteer, I contributed to** :construction_worker::
 
 <code><img src="https://github.com/umututku03/umututku03/blob/main/sds-png.svg" alt="Sample Image" width="120" height="120"></code>
 - Students Developing Software (SDS) is a group of students led by Professor [David Liu](https://www.cs.toronto.edu/~david/) developing and maintaining high-quality **open-source** software used for undergraduate education in the Deparment of Computer Science at the University of Toronto.
-  #### In SDS, I worked on:
+  ### In SDS, I worked on these open-source projects:
 
   <code><img height="50" src="https://github.com/MarkUsProject/Markus/blob/master/app/assets/images/markus_logo_small.png"></code>
   - [MarkUs](https://github.com/MarkUsProject) is a web application for courses to manage assessments, supporting individual and group submissions and both TA and automated grading.
