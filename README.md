@@ -22,6 +22,8 @@ I interned as a Machine Learning Engineer at [TAZI AI Systems](https://tazi.ai/)
   ### In SDS, I worked on these open-source projects:
 
   <code><img height="50" src="https://github.com/MarkUsProject/Markus/blob/master/app/assets/images/markus_logo_small.png"></code>
+  
+  <code><a href="https://github.com/MarkUsProject/Markus/pulls?q=is%3Apr+author%3Aumututku03">My Pull Requests (PRs)</a></code>
   - [MarkUs](https://github.com/MarkUsProject) is a web application for courses to manage assessments, supporting individual and group submissions and both TA and automated grading.
     
   <code><img height="120" width="120" src="https://github.com/umututku03/umututku03/blob/main/pyTA-png.png"></code>
