@@ -9,6 +9,8 @@
 - Computer Vision
 - Software Development
 
+
+<code><img src="https://github.com/umututku03/umututku03/blob/main/Cerebras-Logo-Black.png" alt="Sample Image" width="220" height="120"></code></br>
 **UPDATE:** In May 2025, I will start my internship as an Applied Machine Learning Engineer at [Cerebras](https://cerebras.ai/), working on the world’s fastest inference—20x faster than GPUs, at 1/5 the cost.
 
 I was an Undergraduate Computer Vision Researcher at [Computational Vision and Imaging Lab at York University](https://github.com/YorkUCVIL) under the supervision of [Konstantinos Derpanis](https://csprofkgd.github.io/) last summer. I have received the [Lassonde Undergraduate Research Award](https://lassonde.yorku.ca/research/lura-and-usra-research-at-lassonde).
