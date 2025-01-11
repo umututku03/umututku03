@@ -9,6 +9,8 @@
 - Computer Vision
 - Software Development
 
+**UPDATE:** In May 2025, I will start my internship as an Applied Machine Learning Engineer at Cerebras, working on the world’s fastest inference—20x faster than GPUs, at 1/5 the cost.
+
 I was an Undergraduate Computer Vision Researcher at [Computational Vision and Imaging Lab at York University](https://github.com/YorkUCVIL) under the supervision of [Konstantinos Derpanis](https://csprofkgd.github.io/) last summer. I have received the [Lassonde Undergraduate Research Award](https://lassonde.yorku.ca/research/lura-and-usra-research-at-lassonde).
 
 I was an Undergraduate Researcher at the Autonomous Vision Group at [Koç University KUIS AI Research Institute](https://ai.ku.edu.tr/), where I worked under the supervision of [Fatma Guney](https://mysite.ku.edu.tr/fguney/).
