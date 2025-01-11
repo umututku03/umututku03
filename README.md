@@ -9,7 +9,7 @@
 - Computer Vision
 - Software Development
 
-I’m currently an Undergraduate Computer Vision Researcher at [Computational Vision and Imaging Lab at York University](https://github.com/YorkUCVIL) under the supervision of [Konstantinos Derpanis](https://csprofkgd.github.io/). I have received the [Lassonde Undergraduate Research Award](https://lassonde.yorku.ca/research/lura-and-usra-research-at-lassonde).
+I was an Undergraduate Computer Vision Researcher at [Computational Vision and Imaging Lab at York University](https://github.com/YorkUCVIL) under the supervision of [Konstantinos Derpanis](https://csprofkgd.github.io/) last summer. I have received the [Lassonde Undergraduate Research Award](https://lassonde.yorku.ca/research/lura-and-usra-research-at-lassonde).
 
 I was an Undergraduate Researcher at the Autonomous Vision Group at [Koç University KUIS AI Research Institute](https://ai.ku.edu.tr/), where I worked under the supervision of [Fatma Guney](https://mysite.ku.edu.tr/fguney/).
 
