@@ -9,7 +9,7 @@
 - Computer Vision
 - Software Development
 
-**UPDATE:** In May 2025, I will start my internship as an Applied Machine Learning Engineer at Cerebras, working on the world’s fastest inference—20x faster than GPUs, at 1/5 the cost.
+**UPDATE:** In May 2025, I will start my internship as an Applied Machine Learning Engineer at [Cerebras](https://cerebras.ai/), working on the world’s fastest inference—20x faster than GPUs, at 1/5 the cost.
 
 I was an Undergraduate Computer Vision Researcher at [Computational Vision and Imaging Lab at York University](https://github.com/YorkUCVIL) under the supervision of [Konstantinos Derpanis](https://csprofkgd.github.io/) last summer. I have received the [Lassonde Undergraduate Research Award](https://lassonde.yorku.ca/research/lura-and-usra-research-at-lassonde).
 
@@ -32,6 +32,11 @@ I interned as a Machine Learning Engineer at [TAZI AI Systems](https://tazi.ai/)
   
   <code><a href="https://github.com/pyta-uoft/pyta/pulls?q=is%3Apr+author%3Aumututku03+is%3Aclosed">My Pull Requests (PRs)</a></code>
   - [PythonTA](https://github.com/pyta-uoft) is a code checking tool aimed at beginner Python programmers, providing dierent ways of detecting possible errors and improvements to Python code.
+ 
+  <code><img height="70" src="https://github.com/david-yz-liu/memory-viz/blob/master/assets/logo_full.png"></code>
+  
+  <code><a href="https://github.com/david-yz-liu/memory-viz/pulls?q=is%3Apr+author%3Aumututku03">My Pull Requests (PRs)</a></code>
+  - [MemoryViz](https://github.com/david-yz-liu/memory-viz) is a visualization tool that generates memory model diagrams for Python code, aimed at students and educators. MemoryViz was created through a collaborative effort between myself and two fellow Computer Science students, aimed at enhancing learning through visual tools.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
