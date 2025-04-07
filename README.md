@@ -6,7 +6,6 @@
 ### Areas of Interest:
 - Machine Learning
 - Deep Learning
-- Computer Vision
 - Computer Systems
 - Software Development
 
