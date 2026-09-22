@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Utku Egemen Umut 👋</h1>
-<h3 align="center">Computer Science student at the University of Toronto · Machine Learning Engineer</h3>
+<h3 align="center">Computer Science student at the University of Toronto · Machine Learning Engineer · Software Engineer</h3>
 
 <p align="center">
   <a href="https://umututku03.github.io">Portfolio</a> ·
@@ -43,6 +43,19 @@ I was a **Lead Tutorial Teaching Assistant for CSC236** for two terms and am cur
 **Languages:** Python, C++, C, SQL, Shell, Java, JavaScript, Haskell<br>
 **ML:** PyTorch, FlexAttention, tensor parallelism, distributed training, vLLM, `verl`, Hugging Face Transformers, Inspect, scikit-learn<br>
 **Backend and systems:** FastAPI, gRPC, RabbitMQ, PostgreSQL, Linux, Docker, Slurm/HPC, GPU programming, Git, CI/CD
+
+## GitHub activity & languages
+
+<p align="center">
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img src="https://github-stats-extended.vercel.app/api?username=umututku03&amp;show_icons=true&amp;hide_border=true&amp;theme=transparent" alt="GitHub activity stats for Utku Egemen Umut" height="165" />
+  </a>
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=umututku03&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;theme=transparent" alt="Top programming languages across public repositories" height="165" />
+  </a>
+</p>
+
+<p align="center"><sub>Stats are based on public GitHub activity. Language proportions reflect code size across public repositories, not time spent coding.</sub></p>
 
 ## Get in touch
 
