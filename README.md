@@ -4,7 +4,6 @@
 <p align="center">
   <a href="https://umututku03.github.io">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/utkuegemenumut">LinkedIn</a> ·
-  <a href="https://github.com/umututku03">GitHub</a>
 </p>
 
 I'm completing a Computer Science Specialist and Mathematics Minor at the University of Toronto. I’m interested in machine learning, reasoning models, and the powerful systems that make ML useful in practice.
