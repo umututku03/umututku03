@@ -25,8 +25,8 @@ I'm completing a Computer Science Specialist and Mathematics Minor at the Univer
 
 ### Earlier research and engineering
 
-- **Undergraduate Researcher**, Autonomous Vision Group, Koç University KUIS AI Research Centre · June – September 2023. Reworked a Linux HPC trajectory-prediction pipeline, reducing experiment runtime by **30%**.
-- **Machine Learning Engineer Intern**, TAZI AI Systems · May – August 2023. Built churn-prediction models for Adaptive AutoML, achieving **89% accuracy**.
+- **Undergraduate Researcher**, Autonomous Vision Group, Koç University KUIS AI Research Centre · June – September 2023.
+- **Machine Learning Engineer Intern**, TAZI AI Systems · May – August 2023.
 
 ## Open source and teaching
 
