@@ -46,14 +46,8 @@ I was a **Lead Tutorial Teaching Assistant for CSC236** for two terms and am cur
 
 ## GitHub activity & languages
 
-<p align="center">
-  <a href="https://github.com/stats-organization/github-stats-extended">
-    <img src="https://github-stats-extended.vercel.app/api?username=umututku03&amp;show_icons=true&amp;hide_border=true&amp;theme=transparent" alt="GitHub activity stats for Utku Egemen Umut" height="165" />
-  </a>
-  <a href="https://github.com/stats-organization/github-stats-extended">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=umututku03&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;theme=transparent" alt="Top programming languages across public repositories" height="165" />
-  </a>
-</p>
+[![GitHub activity stats for Utku Egemen Umut](https://github-stats-extended.vercel.app/api?username=umututku03&show_icons=true&hide_border=true&theme=transparent)](https://github.com/umututku03)
+[![Top programming languages across public repositories](https://github-stats-extended.vercel.app/api/top-langs/?username=umututku03&layout=compact&langs_count=6&hide_border=true&theme=transparent)](https://github.com/umututku03)
 
 <p align="center"><sub>Stats are based on public GitHub activity. Language proportions reflect code size across public repositories, not time spent coding.</sub></p>
 
