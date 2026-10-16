@@ -10,7 +10,7 @@ I'm completing a Computer Science Specialist and Mathematics Minor at the Univer
 
 ## Recent experience
 
-### Applied Machine Learning Engineer Intern · [Cerebras Systems](https://cerebras.ai/)
+### Applied Machine Learning Engineer · [Cerebras Systems](https://cerebras.ai/)
 *Toronto · May 2025 – August 2026*
 
 
