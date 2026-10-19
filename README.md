@@ -29,6 +29,8 @@ I'm completing a Computer Science Specialist and Mathematics Minor at the Univer
 
 ## Open source and teaching
 
+- [**LLVM**](https://github.com/llvm/llvm-project) · Contributing to the Kaleidoscope tutorial and Flang Fortran compiler, including bug fixes and regression tests. [My pull requests](https://github.com/llvm/llvm-project/pulls?q=is%3Apr+author%3Aumututku03)
+
 Through [Students Developing Software (SDS)](https://www.cs.toronto.edu/~david/) (2023–2024), I contributed to open-source tools used in University of Toronto courses:
 
 - [**MarkUs**](https://github.com/MarkUsProject/Markus) · Contributed to a Ruby on Rails, React, and PostgreSQL grading platform used by 5,000+ students. [My pull requests](https://github.com/MarkUsProject/Markus/pulls?q=is%3Apr+author%3Aumututku03)
